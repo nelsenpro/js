@@ -2,7 +2,7 @@
 ## Setting up
 #### CDN
 ```html
-https://cdn.jsdelivr.net/gh/nelsenpro/js/cp.js
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/js/cp.js" integrity="sha384-5NUcFWIZxsmAnfe20XG9j0++0ofbsLjDmPX3RhRqUqVwrxRGrfidkDCQYd7AOcxY" crossorigin="anonymous"></script>
 ```
 #### HTML
 ```html
