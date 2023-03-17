@@ -7,23 +7,18 @@ https://cdn.jsdelivr.net/gh/nelsenpro/js/0my.min.js
 #### HTML
 ```html
 <textarea id="textarea" class="" wrap="off" readonly="true"></textarea>
-
-
 <button type="submit" onclick="copy();">Copy</button>
 ```
 ```html
 <textarea id="textarea1" class="" wrap="off" readonly="true"></textarea>
-
 <button type="submit" onclick="copy1();">Copy</button>
 ```
 ```html
 <textarea id="textarea2" class="" wrap="off" readonly="true"></textarea>
-
 <button type="submit" onclick="copy2();">Copy</button>
 ```
 ```html
 <textarea id="textarea99" class="" wrap="off" readonly="true"></textarea>
-
 <button type="submit" onclick="copy99();">Copy</button>
 ```
 ## Sukses...
@@ -31,3 +26,4 @@ https://cdn.jsdelivr.net/gh/nelsenpro/js/0my.min.js
 ```txt
 id = 1 sampai 100 & onclick="copy1 sampai 100();"
 ```
+**by Bnelsofc** GNU GPL 3.0
