@@ -2,7 +2,7 @@
 ## Setting up
 #### CDN
 ```html
-https://cdn.jsdelivr.net/gh/nelsenpro/js/0my.min.js
+https://cdn.jsdelivr.net/gh/nelsenpro/js/cp.js
 ```
 #### HTML
 ```html
