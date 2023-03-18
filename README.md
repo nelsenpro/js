@@ -6,19 +6,30 @@
 ```
 #### HTML
 ```html
-<textarea id="textarea" class="" wrap="off" readonly="true"></textarea>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/js/cp.js" integrity="sha384-5NUcFWIZxsmAnfe20XG9j0++0ofbsLjDmPX3RhRqUqVwrxRGrfidkDCQYd7AOcxY" crossorigin="anonymous"></script>
+
+<textarea name="textarea" id="textarea" rows="8" cols="40" wrap="off" readonly="true"></textarea>
+<hr />
 <button type="submit" onclick="copy();">Copy</button>
 ```
 ```html
-<textarea id="textarea1" class="" wrap="off" readonly="true"></textarea>
+<textarea name="textarea1" id="textarea" rows="8" cols="40" wrap="off" readonly="true"></textarea>
+<hr />
 <button type="submit" onclick="copy1();">Copy</button>
 ```
 ```html
-<textarea id="textarea2" class="" wrap="off" readonly="true"></textarea>
+<textarea name="textarea2" id="textarea" rows="8" cols="40" wrap="off" readonly="true"></textarea>
+<hr />
 <button type="submit" onclick="copy2();">Copy</button>
 ```
 ```html
-<textarea id="textarea99" class="" wrap="off" readonly="true"></textarea>
+<textarea name="textarea90" id="textarea" rows="8" cols="40" wrap="off" readonly="true"></textarea>
+<hr />
+<button type="submit" onclick="copy90();">Copy</button>
+```
+```html
+<textarea name="textarea99" id="textarea" rows="8" cols="40" wrap="off" readonly="true"></textarea>
+<hr />
 <button type="submit" onclick="copy99();">Copy</button>
 ```
 ## Sukses...
